@@ -1,4 +1,4 @@
-# Design-Automated-for-Genelet-Regulatory-Networks
+# Automated Design of Genelet Regulatory Networks
 ## Automated design using multiobjective optimization (MOO) through PyMOO for genelet network concentrations and topology
 
 ### Code descriptions:
